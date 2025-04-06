@@ -10,8 +10,6 @@
   font-size: 70px;
 }
 
-
-
 .btn {
   border-radius: 12px;
   padding: 16px 42px;
@@ -42,6 +40,11 @@
 
 .colorBlog {
   background-color: rgb(66, 80, 110) !important;
+}
+
+#lots {
+  font-weight: bold;
+  font-style: italic;
 }
 
 .linkBlue {
@@ -89,15 +92,15 @@ h2 {
     position: absolute;
     right: 40px;
   }
-  }
+}
 
 /* apply extra margins only if screen is wide enough */
 @media only screen and (min-width: 600px) {
-    .extraSideMargin {
+  .extraSideMargin {
     margin-left: 100px;
     margin-right: 100px;
   }
-  }  
+}
 
 /* widescreen displays */
 @media only screen and (min-width: 920px) {
