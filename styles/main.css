@@ -61,8 +61,27 @@ h1 {
 }
 
 h2 {
-  font-size: 25px;
+  font-size: 33px;
   font-style: oblique;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+h4 {
+  font-size: 25px;
+}
+
+p {
+  font-size: 23px;
+}
+
+.highlight {
+  background-color: #b3d4fc;
+  color: black;
+  padding: 2px 4px;
+  border-radius: 3px;
 }
 
 .linkToBlog {
